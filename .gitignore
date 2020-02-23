@@ -15,6 +15,9 @@ Desktop.ini
 *.filters
 *.user
 *.pdb
+*.exe
+*.obj
+*.ilk
 dist
 build
 
